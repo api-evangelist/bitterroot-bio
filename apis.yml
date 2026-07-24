@@ -1,8 +1,25 @@
 aid: bitterroot-bio
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bitterroot-bio.png
 name: Bitterroot Bio
-description: 'Bitterroot Bio is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: life-sciences. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Bitterroot Bio is a privately held, clinical-stage biotechnology company based in Palo
+  Alto, California, pioneering the emerging field of cardio-immunology — the interplay between the immune
+  system and cardiovascular disease. Its lead program, BRB-002, is a novel investigational immunomodulating
+  protein therapy that targets CD47 to treat atherosclerotic cardiovascular disease (ASCVD) by acting on
+  atherosclerotic plaque through the immunomodulation of macrophages, an approach distinct from current
+  standards of care. Founded in 2021, the company is advancing BRB-002 through its MATADOR Phase 2a proof-of-concept
+  study. Bitterroot Bio is a therapeutics developer and publishes no public developer API or programmatic
+  surface; this profile captures its public web identity within the API Evangelist network.'
 url: https://raw.githubusercontent.com/api-evangelist/bitterroot-bio/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +29,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Life Sciences
+- Biotechnology
+- Cardiovascular
+- Cardio-Immunology
+- Pharmaceuticals
+- Clinical Trials
+- Drug Development
+- Palo Alto
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,18 @@ maintainers:
 common:
 - type: Website
   url: https://brbio.com
+- type: Blog
+  url: https://brbio.com/category/press-release/
+- type: PrivacyPolicy
+  url: https://brbio.com/privacy-policy/
+- type: TermsOfService
+  url: https://brbio.com/terms-of-use/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/bitterroot-bio
+- type: DomainSecurity
+  url: security/bitterroot-bio-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
