@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bitterroot Bio is a company surfaced as a portfolio company of gv and added to the API Evangelist network as a stub for enrichment. Sector: life-sciences. This profile is a lead awaiting the enrichment pipeline.
+Bitterroot Bio is a privately held, clinical-stage biotechnology company based in Palo Alto, California, pioneering the emerging field of cardio-immunology — the interplay between the immune system and cardiovascular disease. Its lead program, BRB-002, is a novel investigational immunomodulating protein therapy that targets CD47 to treat atherosclerotic cardiovascular disease (ASCVD) by acting on atherosclerotic plaque through the immunomodulation of macrophages, an approach distinct from current standards of care. Founded in 2021, the company is advancing BRB-002 through its MATADOR Phase 2a proof-of-concept study. Bitterroot Bio is a therapeutics developer and publishes no public developer API or programmatic surface; this profile captures its public web identity within the API Evangelist network.
 
-Backed by: gv — https://brbio.com
+**Areas:** Company · Life Sciences · Biotechnology · Cardiovascular · Cardio-Immunology · Pharmaceuticals · Clinical Trials · Drug Development · Palo Alto
+
+## Bitterroot Bio on APIs.io
+
+Everything profiled for Bitterroot Bio is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bitterroot-bio/](https://apis.io/providers/bitterroot-bio/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bitterroot Bio Domain Security](https://apis.io/security/bitterroot-bio/bitterroot-bio-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://brbio.com)
+- [Blog](https://brbio.com/category/press-release/)
+- [Terms of service](https://brbio.com/terms-of-use/)
+- [Privacy policy](https://brbio.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bitterroot-bio/](https://apis.io/providers/bitterroot-bio/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bitterroot Bio: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bitterroot-bio/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
